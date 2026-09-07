@@ -272,7 +272,7 @@ function Index() {
               </p>
               <div className="mt-10 flex flex-col sm:flex-row gap-3 justify-center">
                 <a
-                  href="https://apps.apple.com"
+                  href="https://apps.apple.com/us/app/global-property-tycoon/id6804374009"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-full bg-background border border-border px-6 py-3.5 font-semibold hover:border-gold/50 hover:-translate-y-0.5 transition"
